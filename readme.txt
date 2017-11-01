@@ -1,6 +1,8 @@
 ***********bluscan *************
 project name: blu scan
 project developed : moulali
+programming language:java
+IDE: Android Studio
 android ver: above jellybean
 project description : 
 	1)turn on:turns on the bluetooth in the device.
