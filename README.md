@@ -1,5 +1,9 @@
 # Bluscan_RSSI_App
 
+**To find the nearby bluetooth devices using their rssi values.
+In telecommunications, received signal strength indicator (RSSI) is a measurement of the power present in a received radio signal.
+These signals are obtained when a bluetooth device tries to connect other bluetooth devices.**
+
 - Project developed : Moulali.M, Amaanuddin Parvez, Mustafa Aqil.
 - Programming language: Java
 - IDE: Android Studio
