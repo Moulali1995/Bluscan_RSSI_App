@@ -1,10 +1,9 @@
 # Bluscan_RSSI_App
 
-- Project name: Bluscan_RSSI_App
-- Project developed : moulali.m
-- Programming language:java
+- Project developed : Moulali.M, Amaanuddin Parvez, Mustafa Aqil.
+- Programming language: Java
 - IDE: Android Studio
-- Android ver: above jellybean
+- Android ver: Above jellybean
 
 ## project description :
 
